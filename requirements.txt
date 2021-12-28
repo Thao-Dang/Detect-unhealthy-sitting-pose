@@ -1,5 +1,7 @@
 matplotlib
-numpy
+numpy==1.21.4
 pandas
 opencv-contrib-python
-tensorflow-cpu
+sklearn
+mediapipe
+pygame
